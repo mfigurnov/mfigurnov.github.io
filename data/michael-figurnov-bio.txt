@@ -1,0 +1,4 @@
+Michael Figurnov is a Senior Research Scientist at DeepMind in London.
+He has obtained a PhD in Computer Science from the Higher School of Economics in 2019 (supervisor: Dmitry Vetrov), and a Specialist degree from Moscow State University in 2013.
+Michael’s research interests include deep learning, computer vision, Bayesian methods and protein folding.
+His work has appeared at NeurIPS, ICML, CVPR and ICLR conferences, as well as JMLR.
