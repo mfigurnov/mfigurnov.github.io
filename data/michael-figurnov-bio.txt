@@ -1,4 +1,1 @@
-Michael Figurnov is a Senior Staff Research Scientist at DeepMind in London.
-He has obtained a PhD in Computer Science from the Higher School of Economics in 2019 (supervisor: Dmitry Vetrov), and a Specialist degree from Moscow State University in 2013.
-Michael’s research interests include deep learning, computer vision, Bayesian methods and protein folding.
-His work has appeared at NeurIPS, ICML, CVPR and ICLR conferences, as well as JMLR and Nature.
+Michael Figurnov is a Senior Staff Research Scientist at Google DeepMind in London, working on pretraining of Gemini models. Previously, he was a core machine learning researcher behind AlphaFold 2, designing the Evoformer architecture, co-developing recycling, and improving model training and predictive accuracy. His earlier research focused on probabilistic machine learning, gradient estimation, and adaptive computation. He obtained his PhD in Computer Science from the Higher School of Economics in 2019, supervised by Dmitry Vetrov.
